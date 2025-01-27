@@ -3,9 +3,9 @@ Final Year Biomedical Engineering Student
 #### Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW
 
 ### Education
-Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) //
-A-Levels @ Abbey College Cambridge (_June 2023_) //
-GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) //
+Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) <br />
+A-Levels @ Abbey College Cambridge (_June 2023_) <br />
+GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 
 ### Work Experience
 **Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** 
