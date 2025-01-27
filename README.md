@@ -8,22 +8,22 @@ A-Levels @ Abbey College Cambridge (_June 2023_)
 GCSEs @ Queen Ethelburga's Collegiate (_June 2020_)
 
 ### Work Experience
-** Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong ** 
+**Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** 
 •	Developed an automated clinical follow-up system using RedCap for data collection and quantitative analysis
 •	Assisted in production of 3D printed metal implants using CAD modelling software Materialise
 •	Designed 3D printed bone models displays for use in business exhibitions and test-fitting before product delivery
 
-** Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong **
+**Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong**
 •	Collaborated cross-departmentally with Sales, Sample, QC, and Logistics teams, gaining multifaceted insights in operating business
 •	Facilitated in high-value business transactions from order to product delivery
 
-** Marketing Intern @ Audrey (_June 2022 - August 2022_), Hong Kong **
+**Marketing Intern @ Audrey (_June 2022 - August 2022_), Hong Kong**
 •	Used AI generative imaging to create eye-catching graphics for social media marketing
 •	Analysed existing products for improvement opportunities, implementing bundles and strategic re-pricing that significantly boosted sales
 •	Successfully increased revenue in sales and boosted website traffic
 
 ### Projects
-### ** Self-Stabilizing Spoon For Alzeheimer's Patient**
+### **Self-Stabilizing Spoon For Alzeheimer's Patient**
 •	Prototype of self-stabilizing spoon as proof of concept using low budget materials
 •	Designed, programmed and built a self-stabilizing spoon using IMU, servo motors and Arduino Nano
 •	Programmed software to handle IMU data and incorporating Kalman Filters, PID Controllers to counteract involuntary movements
