@@ -8,16 +8,16 @@ A-Levels @ Abbey College Cambridge (_June 2023_) <br />
 GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 
 ### Work Experience
-**Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** 
+**Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** <br />
 •	Developed an automated clinical follow-up system using RedCap for data collection and quantitative analysis <br />
 •	Assisted in production of 3D printed metal implants using CAD modelling software Materialise <br />
 •	Designed 3D printed bone models displays for use in business exhibitions and test-fitting before product delivery <br />
 
-**Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong** 
+**Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong** <br />
 •	Collaborated cross-departmentally with Sales, Sample, QC, and Logistics teams, gaining multifaceted insights in operating business <br />
 •	Facilitated in high-value business transactions from order to product delivery <br />
 
-**Marketing Intern @ Audrey (_June 2022 - August 2022_), Hong Kong**
+**Marketing Intern @ Audrey (_June 2022 - August 2022_), Hong Kong** <br />
 •	Used AI generative imaging to create eye-catching graphics for social media marketing <br />
 •	Analysed existing products for improvement opportunities, implementing bundles and strategic re-pricing that significantly boosted sales <br />
 •	Successfully increased revenue in sales and boosted website traffic <br />
