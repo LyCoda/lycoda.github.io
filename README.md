@@ -28,6 +28,12 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 ![Image](https://github.com/user-attachments/assets/da596b84-b58f-42aa-8e4d-2f8f30a4220d)
 
 ### Projects
+### **Wearable Device Challenge**
+•	Designed a wearable device using strain gauges and PCB measuring the compression and expansion of the thorax to estimate the heart rate of the user <br />
+•	Secured the best poster and presentation awards against entire cohort <br />
+![Image](https://github.com/user-attachments/assets/1e7753d3-7205-48c0-bdac-b0eee2335350)
+![Image](https://github.com/user-attachments/assets/3760d1d0-da08-4d4b-8707-60f22865376d)
+
 ### **Self-Stabilizing Spoon For Alzeheimer's Patient**
 •	Prototype of self-stabilizing spoon as proof of concept using low budget materials <br />
 •	Designed, programmed and built a self-stabilizing spoon using IMU, servo motors and Arduino Nano <br />
@@ -53,12 +59,6 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Analyzed network traffic data using Pandas and Matplotlib, performing data manipulation and visualization <br />
 •	Built a student data management system using object-oriented programming, featuring terminal-based user interaction and data visualization <br />
 •	Enhanced skills in Python, data processing, and practical problem solving <br />
-
-### **Wearable Device Challenge**
-•	Designed a wearable device using strain gauges and PCB measuring the compression and expansion of the thorax to estimate the heart rate of the user <br />
-•	Secured the best poster and presentation awards against entire cohort <br />
-![Image](https://github.com/user-attachments/assets/1e7753d3-7205-48c0-bdac-b0eee2335350)
-![Image](https://github.com/user-attachments/assets/3760d1d0-da08-4d4b-8707-60f22865376d)
 
 ### **System for Redundant Biomedical Sensor Project**
 •	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alertrs for inconsistencies <br />
