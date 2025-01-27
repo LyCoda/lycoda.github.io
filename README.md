@@ -42,6 +42,13 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 
 ![Oscilloscope Results](https://github.com/user-attachments/assets/7efac310-5077-42f1-ab19-391525f32fc6)
 
+### **Monte Carlo Simulations for Light-Tissue Interactions** <br />
+•	Modelled light interactions in biological tissues using Monte Carlo simulations, focusing on absorption, scattering, and anisotropic scattering <br />
+•	Analyzed and visualized results in MATLAB to validate theoretical principles such as Beer-Lambert Law and Henyey-Greenstein phase function <br />
+•	Investigated biomedical applications, including pulse oximetry and near-infrared spectroscopy  <br />
+
+![Image](https://github.com/user-attachments/assets/0d16cd48-8eef-45a3-b8fc-2661efb460e3)
+
 ### **Computer Science & Programming Task**
 •	Analyzed network traffic data using Pandas and Matplotlib, performing data manipulation and visualization <br />
 •	Built a student data management system using object-oriented programming, featuring terminal-based user interaction and data visualization <br />
