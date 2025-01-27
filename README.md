@@ -33,6 +33,9 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_)
 ### **Construction Of ECG Amplifier Using OP-Amps**
 •	Designing and building analog circuit capable of amplifying biosignals from mV to V
 •	Tested and successfully built using basic electronics and Op-Amps requiring construction of: Instrumentional Amplifiers, Notch Filters
+![Labelled Circuit](https://github.com/user-attachments/assets/32fe75b6-ab61-4157-b3a3-96b7d7293c4c)
+
+![Oscilloscope Results](https://github.com/user-attachments/assets/7efac310-5077-42f1-ab19-391525f32fc6)
 
 ### **Computer Science & Programming Task**
 •	Analyzed network traffic data using Pandas and Matplotlib, performing data manipulation and visualization
@@ -42,7 +45,10 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_)
 ### **Wearable Device Challenge**
 •	Designed a wearable device using strain gauges and PCB measuring the compression and expansion of the thorax to estimate the heart rate of the user 
 •	Secured the best poster and presentation awards against entire cohort
+![Image](https://github.com/user-attachments/assets/1e7753d3-7205-48c0-bdac-b0eee2335350)
+![Image](https://github.com/user-attachments/assets/3760d1d0-da08-4d4b-8707-60f22865376d)
 
 ### **System for Redundant Biomedical Sensor Project**
 •	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alertrs for inconsistencies
 • Construction of Adders/Subtractors and Multiplexers and Comparators from basic gate levels
+![Image](https://github.com/user-attachments/assets/f1f41cde-695b-4139-9e64-8a43ca4054e3)
