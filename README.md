@@ -38,7 +38,11 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Prototype of self-stabilizing spoon as proof of concept using low budget materials <br />
 •	Designed, programmed and built a self-stabilizing spoon using IMU, servo motors and Arduino Nano <br />
 •	Programmed software to handle IMU data and incorporating Kalman Filters, PID Controllers to counteract involuntary movements <br />
-[![Self Stabilizing Spoon Video] (assets/Video Showing Spoon Working.MP4)](https://github.com/user-attachments/assets/421f40d2-837e-4269-b9df-9bdbeed6fea2)
+<video width="640" height="360" controls>
+  <source src="assets/Video%20Showing%20Spoon%20Working.MP4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ![Self Stabilizing Spoon Prototype](https://github.com/user-attachments/assets/23b6ac52-0fe7-4cfd-92aa-18b0448d5470)
 
 ### **Construction Of ECG Amplifier Using OP-Amps**
