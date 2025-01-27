@@ -43,7 +43,6 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
   Your browser does not support the video tag.
 </video>
 
-![Self Stabilizing Spoon Prototype](https://github.com/user-attachments/assets/23b6ac52-0fe7-4cfd-92aa-18b0448d5470)
 
 **Construction Of ECG Amplifier Using OP-Amps** <br />
 •	Designing and building analog circuit capable of amplifying biosignals from mV to V <br />
