@@ -12,9 +12,8 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Developed an automated clinical follow-up system using RedCap for data collection and quantitative analysis <br />
 •	Assisted in production of 3D printed metal implants using CAD modelling software Materialise <br />
 •	Designed 3D printed bone models displays for use in business exhibitions and test-fitting before product delivery <br />
-![Image](https://github.com/user-attachments/assets/b230dfd9-6721-4858-9e0f-931d01a08bf1)
 ![Image](https://github.com/user-attachments/assets/290aab75-1233-44f0-9bb3-5840110af3fe)
-
+![Image](https://github.com/user-attachments/assets/b230dfd9-6721-4858-9e0f-931d01a08bf1)
 **Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong** <br />
 •	Collaborated cross-departmentally with Sales, Sample, QC, and Logistics teams, gaining multifaceted insights in operating business <br />
 •	Facilitated in high-value business transactions from order to product delivery <br />
