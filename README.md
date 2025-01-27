@@ -12,8 +12,11 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Developed an automated clinical follow-up system using RedCap for data collection and quantitative analysis <br />
 •	Assisted in production of 3D printed metal implants using CAD modelling software Materialise <br />
 •	Designed 3D printed bone models displays for use in business exhibitions and test-fitting before product delivery <br />
+•	Designed 3D printed moulds for holding implants in place for CNC <br />
+•	Development of automated gantt chart system using excel macros and integrated Power Automate used in Microsoft Teams <br />
 ![Image](https://github.com/user-attachments/assets/290aab75-1233-44f0-9bb3-5840110af3fe)
 ![Image](https://github.com/user-attachments/assets/b230dfd9-6721-4858-9e0f-931d01a08bf1)
+
 **Summer Intern @ Golden Cedar Ltd (_June 2023 - August 2023_), Hong Kong** <br />
 •	Collaborated cross-departmentally with Sales, Sample, QC, and Logistics teams, gaining multifaceted insights in operating business <br />
 •	Facilitated in high-value business transactions from order to product delivery <br />
@@ -22,6 +25,7 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Used AI generative imaging to create eye-catching graphics for social media marketing <br />
 •	Analysed existing products for improvement opportunities, implementing bundles and strategic re-pricing that significantly boosted sales <br />
 •	Successfully increased revenue in sales and boosted website traffic <br />
+![Image](https://github.com/user-attachments/assets/da596b84-b58f-42aa-8e4d-2f8f30a4220d)
 
 ### Projects
 ### **Self-Stabilizing Spoon For Alzeheimer's Patient**
