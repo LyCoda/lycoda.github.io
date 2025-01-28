@@ -4,8 +4,6 @@ Final Year Biomedical Engineering Student
 
 ### Education
 Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) <br />
-A-Levels @ Abbey College Cambridge (_June 2023_) <br />
-GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 
 ### Work Experience
 **Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** <br />
@@ -64,6 +62,6 @@ GCSEs @ Queen Ethelburga's Collegiate (_June 2020_) <br />
 •	Enhanced skills in Python, data processing, and practical problem solving <br />
 
 **System for Redundant Biomedical Sensor Project** <br />
-•	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alertrs for inconsistencies <br />
+•	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alerts for inconsistencies <br />
 • Construction of Adders/Subtractors and Multiplexers and Comparators from basic gate levels <br />
 ![Image](https://github.com/user-attachments/assets/f1f41cde-695b-4139-9e64-8a43ca4054e3)
