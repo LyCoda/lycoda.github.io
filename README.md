@@ -49,6 +49,13 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 
 ![Oscilloscope Results](https://github.com/user-attachments/assets/7efac310-5077-42f1-ab19-391525f32fc6)
 
+**Digital Processing Of ECG Signal To Identify For Abnormal Heart Rate** <br />
+•	Digital circuits via LabVIEW to filter, analyze and categorize PQRS waves<br />
+•	Tested and successfully alerted users of tachycardia or bradycardia <br />
+![Image](https://github.com/user-attachments/assets/805c545f-0d3c-4e5d-9921-b8a8a0ee86aa)
+
+![Image](https://github.com/user-attachments/assets/4164d7e9-aa4a-4bfc-bcef-ec6d66d96fa0)
+
 **Monte Carlo Simulations for Light-Tissue Interactions** <br />
 •	Modelled light interactions in biological tissues using Monte Carlo simulations, focusing on absorption, scattering, and anisotropic scattering <br />
 •	Analyzed and visualized results in MATLAB to validate theoretical principles such as Beer-Lambert Law and Henyey-Greenstein phase function <br />
