@@ -28,7 +28,7 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 ![Image](https://github.com/user-attachments/assets/da596b84-b58f-42aa-8e4d-2f8f30a4220d)
 
 # Projects
-###**Wearable Device Challenge** <br />
+### **Wearable Device Challenge** <br />
 •	Designed a wearable device using strain gauges and PCB measuring the compression and expansion of the thorax to estimate the heart rate of the user <br />
 •	Secured the best poster and presentation awards against entire cohort <br />
 ![Image](https://github.com/user-attachments/assets/1e7753d3-7205-48c0-bdac-b0eee2335350)
