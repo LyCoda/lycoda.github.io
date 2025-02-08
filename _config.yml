@@ -1,5 +1,5 @@
 title: "Long Yin Chu"
 #logo:
 # description: "Your description here"
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
