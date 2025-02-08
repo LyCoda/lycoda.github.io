@@ -1,7 +1,8 @@
 Final Year Biomedical Engineering Student
 
-**Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW**
-[Download CV Here](file:///C:/Users/natec/Desktop/Masters%20Application%20Folder%20ALL%20IN%201/Nate%20Chu%20Final%20CV.pdf)
+**Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW** <br />
+
+[View CV Here]([(https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Nate%20Chu%20Final%20CV.pdf))
 
 # Education
 Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) <br />
