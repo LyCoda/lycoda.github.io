@@ -1,4 +1,4 @@
-Final Year Biomedical Engineering Student
+**Final Year Biomedical Engineering Student**
 
 **Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW** <br />
 
