@@ -2,7 +2,7 @@ Final Year Biomedical Engineering Student
 
 **Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW** <br />
 
-[View CV Here](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Nate%20Chu%20Final%20CV.pdf)
+[View CV](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Nate%20Chu%20Final%20CV.pdf)
 
 # Education
 Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) <br />
@@ -70,7 +70,7 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 •	Built a student data management system using object-oriented programming, featuring terminal-based user interaction and data visualization <br />
 •	Enhanced skills in Python, data processing, and practical problem solving <br />
 
-### **System for Redundant Biomedical Sensor Project** <br /> [Download Project Here](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Logisim.zip)
+### **System for Redundant Biomedical Sensor Project** <br /> [Download Here](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Logisim.zip)
 •	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alerts for inconsistencies <br />
 • Construction of Adders/Subtractors and Multiplexers and Comparators from basic gate levels <br />
 ![Image](https://github.com/user-attachments/assets/f1f41cde-695b-4139-9e64-8a43ca4054e3)
