@@ -2,10 +2,10 @@ Final Year Biomedical Engineering Student
 
 **Technical Skills: Python, C++, Fusion 360, AutoCAD, Teams Automate, RedCap, Logisim, LabVIEW**
 
-### Education
+# Education
 Biomedical Engineering, BEng @ City St George's University Of London (_June 2025_) <br />
 
-### Work Experience
+# Work Experience
 **Production Intern @ Koln 3D (_June 2024 - August 2024_), Hong Kong** <br />
 •	Developed an automated clinical follow-up system using RedCap for data collection and quantitative analysis <br />
 •	Assisted in production of 3D printed metal implants using CAD modelling software Materialise <br />
@@ -25,7 +25,7 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 •	Successfully increased revenue in sales and boosted website traffic <br />
 ![Image](https://github.com/user-attachments/assets/da596b84-b58f-42aa-8e4d-2f8f30a4220d)
 
-### Projects
+# Projects
 **Wearable Device Challenge** <br />
 •	Designed a wearable device using strain gauges and PCB measuring the compression and expansion of the thorax to estimate the heart rate of the user <br />
 •	Secured the best poster and presentation awards against entire cohort <br />
