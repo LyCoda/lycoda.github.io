@@ -34,7 +34,7 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 ![Image](https://github.com/user-attachments/assets/1e7753d3-7205-48c0-bdac-b0eee2335350)
 ![Image](https://github.com/user-attachments/assets/3760d1d0-da08-4d4b-8707-60f22865376d)
 
-### **Self-Stabilizing Spoon For Alzeheimer's Patient** <br />
+### **Self-Stabilizing Spoon For Alzeheimer's Patient** <br /> 
 •	Prototype of self-stabilizing spoon as proof of concept using low budget materials <br />
 •	Designed, programmed and built a self-stabilizing spoon using IMU, servo motors and Arduino Nano <br />
 •	Programmed software to handle IMU data and incorporating Kalman Filters, PID Controllers to counteract involuntary movements <br />
@@ -44,14 +44,14 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 </video>
 <br />
 
-### **Construction Of ECG Amplifier Using OP-Amps** <br />
+### **Construction Of ECG Amplifier Using OP-Amps** <br /> 
 •	Designing and building analog circuit capable of amplifying biosignals from mV to V <br />
 •	Tested and successfully built using basic electronics and Op-Amps requiring construction of: Instrumentional Amplifiers, Notch Filters <br />
 ![Labelled Circuit](https://github.com/user-attachments/assets/32fe75b6-ab61-4157-b3a3-96b7d7293c4c)
 
 ![Oscilloscope Results](https://github.com/user-attachments/assets/7efac310-5077-42f1-ab19-391525f32fc6)
 
-### **Digital Processing Of ECG Signal To Identify For Abnormal Heart Rate** <br />
+### **Digital Processing Of ECG Signal To Identify For Abnormal Heart Rate** <br /> 
 •	Digital circuits via LabVIEW to filter, analyze and categorize PQRS waves<br />
 •	Tested and successfully alerted users of tachycardia or bradycardia <br />
 ![Image](https://github.com/user-attachments/assets/805c545f-0d3c-4e5d-9921-b8a8a0ee86aa)
@@ -65,12 +65,12 @@ Biomedical Engineering, BEng @ City St George's University Of London (_June 2025
 
 ![Image](https://github.com/user-attachments/assets/0d16cd48-8eef-45a3-b8fc-2661efb460e3)
 
-### **Computer Science & Programming Task** <br />
+### **Computer Science & Programming Task** <br /> [Download Here](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Python%20Programming%20Task.zip)
 •	Analyzed network traffic data using Pandas and Matplotlib, performing data manipulation and visualization <br />
 •	Built a student data management system using object-oriented programming, featuring terminal-based user interaction and data visualization <br />
 •	Enhanced skills in Python, data processing, and practical problem solving <br />
 
-### **System for Redundant Biomedical Sensor Project** <br />
+### **System for Redundant Biomedical Sensor Project** <br /> [Download Project Here](https://github.com/LyCoda/lycoda.github.io/blob/main/Code%20Repository/Logisim.zip)
 •	Designed a digital system using LabVIEW to detect discrepancies between ECG and Pulse Oximeter readings, triggering alerts for inconsistencies <br />
 • Construction of Adders/Subtractors and Multiplexers and Comparators from basic gate levels <br />
 ![Image](https://github.com/user-attachments/assets/f1f41cde-695b-4139-9e64-8a43ca4054e3)
